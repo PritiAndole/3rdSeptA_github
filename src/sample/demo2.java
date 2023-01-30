@@ -8,6 +8,8 @@ public class demo2
 		System.out.println("Hi");
 		System.out.println("hello");
 		
+		System.out.println("GM");
+		
 	}
 
 }
